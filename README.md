@@ -1,2 +1,2 @@
 # sort
-veri yapıları ve algoritmalar
+## Data Structures And Algorithm
